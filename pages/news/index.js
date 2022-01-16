@@ -1,5 +1,5 @@
 function News() {
-    return <h1>News Index Page</h1>;
+    return <h1>News Page</h1>;
 
 
 }
